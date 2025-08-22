@@ -133,7 +133,7 @@ footer{
 /* Responsividad */
 @media (max-width: 1200px){
     .header{
-        padding: 5%;
+        padding: 10%;
     }
 
     .header__menu{
