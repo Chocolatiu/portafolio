@@ -138,6 +138,7 @@ footer{
 
     .header__menu{
         justify-content: center;
+        width: auto;
     }
 
     .presentacion{
