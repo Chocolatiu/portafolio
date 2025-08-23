@@ -138,7 +138,11 @@ footer{
 
     .header__menu{
         justify-content: center;
-        gap: 20px;
+        gap: 40px;
+    }
+
+    .header__menu__link{
+        font-size: 1.2rem;
     }
 
     .presentacion{
