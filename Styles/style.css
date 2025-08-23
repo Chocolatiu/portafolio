@@ -133,12 +133,12 @@ footer{
 /* Responsividad */
 @media (max-width: 1200px){
     .header{
-        padding: 10%;
+        padding: 15%;
     }
 
     .header__menu{
         justify-content: center;
-        width: auto;
+        gap: 40px;
     }
 
     .presentacion{
